@@ -7,7 +7,7 @@
     </tr>
     <tr>
         <td>1</td>
-        <td>[Мэтчинг товаров](https://github.com/TanyaLatushkina/Portfolio/tree/main/data_matching)</td>
+        <td>Мэтчинг товаров(https://github.com/TanyaLatushkina/Portfolio/tree/main/data_matching)</td>
         <td>Разработка алгоритма для маркетплейса, который для всех товаров из одного набора данных, предложит несколько вариантов наиболее похожих из другого набора</td>
         <td>python, pandas, sklearn, seaborn, matplotlib, numpy, faiss</td>
     </tr>
@@ -19,6 +19,6 @@
     </tr>
         <td>3</td>
         <td>Временные ряды</td>
-        <td>Ячейка 1.2</td>
+        <td>[Текст ссылки](https://www.example.com)</td>
         <td>python, pandas, sklearn, seaborn, matplotlib,</td>
 </table>
