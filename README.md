@@ -12,13 +12,13 @@
         <td>python, pandas, sklearn, seaborn, matplotlib, faiss</td>
     </tr>
     <tr>
+        <td>2</td>
         <td>Классификация музыкальных произвелений</td>
-        <td>Ячейка 2.2</td>
         <td>Ячейка 1.2</td>
         <td>python, pandas, sklearn, seaborn, matplotlib,</td>
     </tr>
+        <td>3</td>
         <td>Числовые ряды</td>
-        <td>Ячейка 2.2</td>
         <td>Ячейка 1.2</td>
         <td>python, pandas, sklearn, seaborn, matplotlib,</td>
 </table>
