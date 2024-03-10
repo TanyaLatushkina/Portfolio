@@ -13,7 +13,7 @@
     </tr>
     <tr>
         <td>2</td>
-        <td>Мультиклассовая классификация музыкальных композиций</td>
+        <td>Мультиклассовая классификация музыкальных композиций https://github.com/TanyaLatushkina/Portfolio/tree/main/Project2</td>
         <td>Pазработка модели, колторая позволяит классифицировать музыкальные произведения по жанрам</td>
         <td>python, pandas, sklearn, seaborn, matplotlib, phik, optunas, shap</td>
     </tr>
