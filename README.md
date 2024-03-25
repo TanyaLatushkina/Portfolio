@@ -18,7 +18,7 @@
         <td>python, pandas, sklearn, seaborn, matplotlib, phik, optunas, shap</td>
     </tr>
         <td>3</td>
-        <td>Временные ряды</td>
-        <td>Текст ссылки https://www.example.com</td>
-        <td>python, pandas, sklearn, seaborn, matplotlib,</td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
 </table>
