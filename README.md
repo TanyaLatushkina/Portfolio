@@ -15,10 +15,15 @@
         <td>2</td>
         <td>Мультиклассовая классификация музыкальных композиций https://github.com/TanyaLatushkina/Portfolio/tree/main/music_genre_classifier</td>
         <td>Pазработка модели, колторая позволяит классифицировать музыкальные произведения по жанрам</td>
-        <td>pandas, sklearn, seaborn, matplotlib, phik, optuna, shap</td>
+        <td>pandas, sklearn, matplotlib, phik, optuna, catboost, shap</td>
     </tr>
         <td>3</td>
         <td>Многоклассовая классификация изображений https://github.com/TanyaLatushkina/Portfolio/tree/main/cv_music_genre_classifier</td>
         <td>Определение жанра по изображению обложки музыкального диска</td>
         <td>pandas, numpy, matplotlib, faiss, fastai</td>
+    </tr>
+        <td>4</td>
+        <td>прогноз оттока</td>
+        <td>Отток</td>
+        <td>pandas, sklearn, matplotlib, optuna, catboost, fastai</td>
 </table>
