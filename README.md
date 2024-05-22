@@ -18,7 +18,7 @@
         <td>pandas, sklearn, seaborn, matplotlib, phik, optuna, shap</td>
     </tr>
         <td>3</td>
-        <td>Многоклассовая классификация изображений https://github.com/TanyaLatushkina/Portfolio/tree/98f8988072a1298f194c675012c1f803a9654c84/cv_music_genre_classifier</td>
+        <td>Многоклассовая классификация изображений https://github.com/TanyaLatushkina/Portfolio/tree/main/cv_music_genre_classifier</td>
         <td>Определение жанра по изображению обложки музыкального диска</td>
         <td>pandas, numpy, matplotlib, faiss, fastai</td>
 </table>
