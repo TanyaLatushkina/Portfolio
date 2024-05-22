@@ -7,7 +7,7 @@
     </tr>
     <tr>
         <td>1</td>
-        <td>Мэтчинг товаров https://github.com/TanyaLatushkina/Portfolio/tree/main/data_matching</td>
+        <td>[Мэтчинг товаров] (https://github.com/TanyaLatushkina/Portfolio/tree/main/data_matching</td>).
         <td>Разработка алгоритма для маркетплейса, который для всех товаров из одного набора данных, предложит несколько вариантов наиболее похожих из другого набора</td>
         <td>python, pandas, sklearn, seaborn, matplotlib, numpy, faiss</td>
     </tr>
