@@ -14,12 +14,12 @@
     <tr>
         <td> 2 </td>
         <td> Мультиклассовая классификация музыкальных композиций https://github.com/TanyaLatushkina/Portfolio/tree/main/04.music_genre_classifier </td>
-        <td> Pазработка модели, колторая позволяит классифицировать музыкальные произведения по жанрам </td>
+        <td> Pазработка модели, которая позволяет классифицировать музыкальные произведения по жанрам </td>
         <td> pandas, sklearn, matplotlib, optuna, catboost, shap </td>
     </tr>
         <td> 3 </td>
         <td> Мультиклассовая классификация изображений https://github.com/TanyaLatushkina/Portfolio/tree/main/02.cv_music_genre_classifier </td>
-        <td> Pазработка модели которая определеняем жанр музыкального произведения по изображению обложки музыкального диска </td>
+        <td> Pазработка модели, которая определеняем жанр музыкального произведения по изображению обложки музыкального диска </td>
         <td> pandas, numpy, matplotlib, faiss, fastai </td>
     </tr>
         <td> 4 </td>
@@ -28,7 +28,7 @@
         <td> pandas, sklearn, seaborn, matplotlib, numpy, faiss </td>
      </tr>
         <td> 5 </td>
-        <td> [Подробнее о Markdown по ссылке](https://daringfireball.net/projects/markdown/) </td>
-        <td> Pазработка модели которая определеняем жанр музыкального произведения по изображению обложки музыкального диска </td>
+        <td> NLP () </td>
+        <td> Pазработка модели для онлайн-платформа повышения уровня школьных знаний, которая позволяет классифицировать текста задач по предметам </td>
         <td> pytorch </td>
 </table>
