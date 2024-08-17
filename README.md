@@ -6,10 +6,10 @@
         <th>Стек</th>
     </tr>
     <tr>
-        <td>1</td>
-        <td>__Прогноз оттока клиентов__ https://github.com/TanyaLatushkina/Portfolio/blob/main/01.churn_rate_customer</td>
-        <td>Разработка модели прогноза оттока клиентов</td>
-        <td>pandas, sklearn, matplotlib, optuna, catboost, fastai</td>
+        <td> 1 </td>
+        <td> Прогноз оттока клиентов https://github.com/TanyaLatushkina/Portfolio/blob/main/01.churn_rate_customer </td>
+        <td> Разработка модели прогноза оттока клиентов </td>
+        <td> pandas, sklearn, matplotlib, optuna, catboost, fastai </td>
     </tr>
     <tr>
         <td>2</td>
