@@ -26,4 +26,11 @@
         <td>Мэтчинг товаров https://github.com/TanyaLatushkina/Portfolio/tree/main/03.data_matching</td>
         <td>Разработка алгоритма для маркетплейса, который для всех товаров из одного набора данных, предложит несколько вариантов наиболее похожих из другого набораР</td>
         <td>pandas, sklearn, seaborn, matplotlib, numpy, faiss</td>
+     </tr>
+        <td>5</td>
+         </tr>
+        <td>3</td>
+        <td>[Текст ссылки](https://github.com/TanyaLatushkina/Portfolio/tree/main/02.cv_music_genre_classifier)</td>
+        <td>Pазработка модели которая определеняем жанр музыкального произведения по изображению обложки музыкального диска</td>
+        <td>pytorch</td>
 </table>
