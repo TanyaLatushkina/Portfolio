@@ -28,7 +28,7 @@
         <td>pandas, sklearn, seaborn, matplotlib, numpy, faiss</td>
      </tr>
         <td>5</td>
-        <td> [Текст ссылки](https://github.com/TanyaLatushkina/Portfolio/tree/main/02.cv_music_genre_classifier) </td>
+        <td> [Подробнее о Markdown по ссылке](https://daringfireball.net/projects/markdown/) </td>
         <td>Pазработка модели которая определеняем жанр музыкального произведения по изображению обложки музыкального диска</td>
         <td>pytorch</td>
 </table>
