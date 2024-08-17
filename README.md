@@ -28,7 +28,7 @@
         <td> pandas, sklearn, seaborn, matplotlib, numpy, faiss </td>
      </tr>
         <td> 5 </td>
-        <td> NLP () </td>
+        <td> NLP https://github.com/TanyaLatushkina/Portfolio/blob/aac45d53e64b887753b6efad7b0035fa92a400c8/05.nlp_classifier/Kuzovkin_info.ipynb </td>
         <td> Pазработка модели для онлайн-платформа повышения уровня школьных знаний, которая позволяет классифицировать текста задач по предметам </td>
         <td> pytorch </td>
 </table>
