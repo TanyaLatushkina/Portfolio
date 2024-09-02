@@ -48,3 +48,6 @@ __Ссылка на Kaggle:__ https://www.kaggle.com/datasets/tanyasoloveva/renu
 __Технические требования:__
 * opencv-python 4.10.0
 * pandas 1.2.4
+* matplotlib 3.7.5
+* Pillow 9.5.0
+* scikit-learn 1.2.2
