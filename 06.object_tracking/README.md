@@ -44,3 +44,7 @@ __План работы:__
 * Рассчитать время на обработку одного кадра.
 
 __Ссылка на Kaggle:__ https://www.kaggle.com/datasets/tanyasoloveva/renue-o
+
+__Технические требования:__
+* opencv-python 4.10.0
+* pandas 1.2.4
