@@ -33,4 +33,10 @@
             https://github.com/TanyaLatushkina/Portfolio/tree/main/05.nlp_classifier </td>
         <td> Pазработка модели для онлайн-платформа повышения уровня школьных знаний, которая позволяет классифицировать текста задач по предметам </td>
         <td> pytorch </td>
+     </tr>
+        <td> 6 </td>
+        <td> Трекинг обектов 
+            https://github.com/TanyaLatushkina/Portfolio/tree/main/6.object_tracking </td>
+        <td> Pазработать решение для отслеживания и сортировки мусора на конвейере – выделять пластиковые бутылки в общем потоке предметов. </td>
+        <td> pytorch </td>
 </table>
