@@ -1,0 +1,7 @@
+build:
+
+docker build --tag dscr .
+
+run:
+
+docker run --rm -it -p 8010:8000 --name app dscr
