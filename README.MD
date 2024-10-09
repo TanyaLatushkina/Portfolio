@@ -1,5 +1,9 @@
 |№|Название проекта|Описание|Стек|
 |:-|:-:|-:|-:|
 |1|[Прогноз оттока клиентов](https://github.com/TanyaLatushkina/Portfolio/blob/main/01.churn_rate_customer)|Разработка модели прогноза оттока клиентов|pandas, sklearn, matplotlib, optuna, catboost, fastai|
-|Равнение по левому краю|Равнение по центру|Равнение по правому краю|f|
-|Запись|Запись|Запись|g|
+|2|[Мультиклассовая классификация музыкальных композиций](https://github.com/TanyaLatushkina/Portfolio/tree/main/04.music_genre_classifier)|Pазработка модели, которая позволяет классифицировать музыкальные произведения по жанрам|pandas, sklearn, matplotlib, optuna, catboost, shap|
+|3|[Мультиклассовая классификация изображений](https://github.com/TanyaLatushkina/Portfolio/tree/main/02.cv_music_genre_classifier)|Pазработка модели, которая определеняем жанр музыкального произведения по изображению обложки музыкального диска|pandas, numpy, matplotlib, faiss, fastai|
+|4|[Мэтчинг товаров](https://github.com/TanyaLatushkina/Portfolio/tree/main/03.data_matching)|Разработка алгоритма для маркетплейса, который для всех товаров из одного набора данных, предложит несколько вариантов наиболее похожих из другого набора|pandas, sklearn, seaborn, matplotlib, numpy, faiss|
+|5|[Классификация текста](https://github.com/TanyaLatushkina/Portfolio/tree/main/05.nlp_classifier)|Pазработка модели для онлайн-платформа повышения уровня школьных знаний, которая позволяет классифицировать текста задач по предметам|PyTorch|
+|6|[Трекинг обектов](https://github.com/TanyaLatushkina/Portfolio/tree/main/6.object_tracking)|Pазработать решение для отслеживания и сортировки мусора на конвейере – выделять пластиковые бутылки в общем потоке предметов|pandas, ultralytics, opencv, matplotlib|
+|[DonorSearch oпределения ориентации справки и автоматического поворота ее в нормальное положение](https://github.com/TanyaLatushkina/Portfolio/tree/main/07.donor_search_text_orientation)|Разработать модель определения ориентации справки и автоматического поворота ее в нормальное положение перед запуском сервиса OCR|Запись|sklearn, catboost, PyTorch, PIL|
